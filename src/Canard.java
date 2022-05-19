@@ -1,3 +1,4 @@
+//class canard
 public class Canard extends Volaille {
     protected static float prixaukilo=6.5f;
     protected static float poidAbattage=1.8f;
