@@ -1,3 +1,4 @@
+//class Poulet
 public class Poulet extends Volaille {
     protected static float prixaukilo=5.2f;
     protected static float poidAbattage=1.1f;

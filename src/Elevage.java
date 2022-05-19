@@ -1,5 +1,5 @@
 import java.util.ArrayList;
-
+//Liste de poulet et de canard
 public class Elevage extends ArrayList<Volaille> {
 
     public Elevage() {
